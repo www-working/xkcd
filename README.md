@@ -1,5 +1,8 @@
 # XKCD
 
-|Number|Name|Author|
-|---|---|---|
-|1|[Coin bro got no coins](./archives/1)|@egoist @koyuki|
+|Name|Author|
+|---|---|
+|[1. Coin bro got no coins](./archives/1)|[@egoist][gh-egoist] [@koyuki][gh-koyuki]|
+
+[gh-egoist]: https://github.com/egoist
+[gh-koyuki]: https://github.com/koyuki
